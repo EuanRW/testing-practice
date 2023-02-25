@@ -1,9 +1,4 @@
-# Test
-- Jest
-- ESLint
-- Babel
-
-# todo-list
+# testing-practice
 
 A repo for practicing using the Jest testing framework. 
 
@@ -23,3 +18,6 @@ Complete
 - Clone Github repo down.
 - Run `npm i` to install depenencies.
 - Run `npm run test` to start dev server.
+
+## Useful things to remember
+- The ts-node npm package allows you to run typescript code without having to compile it.
